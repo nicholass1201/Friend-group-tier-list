@@ -194,7 +194,7 @@ const TierRow = ({
 
 function App() {
   const [title, setTitle] = useState({
-    text: "My Awesome Tier List",
+    text: "Tier List",
     blurred: false,
   });
   const [tiers, setTiers] = useState([
